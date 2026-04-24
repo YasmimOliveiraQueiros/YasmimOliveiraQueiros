@@ -29,14 +29,3 @@ Aberta a oportunidades e colaborações. Vamos conversar?
 ## Áreas de interesse
 
 Full Stack · Inteligência Artificial aplicada · Análise de dados · UX e interfaces
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YasmimOliveiraQueiros&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimOliveiraQueiros&layout=compact&theme=graywhite&hide_border=true)
-
----
-
-[LinkedIn](https://linkedin.com/in/yasmim-oliveira-6088193a2) · [GitHub](https://github.com/YasmimOliveiraQueiros)
