@@ -1,6 +1,6 @@
 # Yasmim Oliveira Queiros
 
-Desenvolvedora Full Stack em formação, com foco em JavaScript e Python.
+Desenvolvedora Full Stack em formação, com foco em Java e Python.
 Apaixonada por interfaces bem construídas e por projetos que unem código, dados e IA.
 Explorando o universo de inteligência artificial aplicada — de assistentes por voz a análises de mercado.
 
@@ -20,7 +20,7 @@ Aberta a oportunidades e colaborações. Vamos conversar?
 ## Tecnologias
 
 **Front-End:** HTML · CSS · JavaScript  
-**Back-End & Dados:** Python · Pandas · APIs REST  
+**Back-End & Dados:** Python · Intellij · APIs REST  
 **IA:** OpenAI API · Whisper · gTTS  
 **Ferramentas:** Git · GitHub · VS Code
 
